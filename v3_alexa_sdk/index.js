@@ -55,7 +55,7 @@ var data = [
         title: "SVP, Director of Digital Production",
         cityName: "new york",
         department: "Digital Production",
-        number: "212-981-7817 	",
+        number: "212-981-7817",
         seatlocation: "1333-24",
         joinDate: "June 2017",
         gender: "m"
@@ -515,7 +515,7 @@ function figureOutWhichSlotToSearchBy(firstName, lastName, cityName) {
     }
 }
 
-//VERY FIRST RESPONSE
+
 function searchByNameIntentHandler() {
     var firstName = isSlotValid(this.event.request, "firstName");
     var lastName = isSlotValid(this.event.request, "lastName");
@@ -715,6 +715,8 @@ function generateSendingCardToAlexaAppMessage(person, mode) {
     return sentence;
 }
 
+
+// VERY FIRST RESPONSE
 function generateSearchResultsMessage(searchQuery, results) {
     var sentence;
     var details;
