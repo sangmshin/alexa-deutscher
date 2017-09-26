@@ -18,9 +18,19 @@ var fs = require("fs");
 var contents = fs.readFileSync("./employees.json");
 var data = JSON.parse(contents);
 
-console.log("First Name:", data[1].firstName);
-console.log("Last Name:", data[1].lastName);
-console.log("Seat Location:", data[1].seatlocation);
+//console.log("First Name:", data[1].firstName);
+//console.log("Last Name:", data[1].lastName);
+//console.log("Seat Location:", data[1].seatlocation);
+
+for (var i = 0; i < data.length; i++){
+    
+    data[i].firstName = data[i].firstName.toLowerCase();
+    data[i].lastName = data[i].lastName.toLowerCase();
+    
+    console.log("Name:", data[i].firstName, data[i].lastName);
+//    console.log("Last Name:", data[i].lastName);
+
+}
 
 //======================================================================================================
 //TODO: Replace these text strings to edit the welcome and help messages

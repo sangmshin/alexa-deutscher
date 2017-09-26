@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "SendMailIntent"
+    },
+    {
+      "intent": "WhoAmIIntent"
+    },
+    {
+      "intent": "WhatsNextIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
