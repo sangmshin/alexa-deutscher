@@ -3,7 +3,7 @@
     "fullname_lc": "winston binch",
     "firstName": "winston",
     "lastName": "binch",
-    "cityName": "new york",
+    "cityName": "los angeles. He is considered one of advertising’s most innovative creative technologists. In 2011, he joined Deutsch, with the goal to make innovation the core of everything the agency did",
     "department": "Executive L.A.",
     "title": "Chief Digital Officer, North America",
     "number": "310.862.3510",
@@ -100,10 +100,10 @@
     "firstName": "cohan",
     "lastName": "andersen",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Editor",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -160,10 +160,10 @@
     "firstName": "anthony",
     "lastName": "arfi",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Assistant Editor",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -379,7 +379,7 @@
     "department": "Creative",
     "title": "Senior Art Director",
     "number": "212-981-7941",
-    "seatlocation": "1415-22|",
+    "seatlocation": "1415-22",
     "gender": "f"
 },
 {
@@ -427,7 +427,7 @@
     "department": "Creative",
     "title": "Art Director",
     "number": "212-981-7819",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -570,8 +570,8 @@
     "cityName": "new york",
     "department": "Studio",
     "title": "Proofreader",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -735,7 +735,7 @@
     "fullname_lc": "val difebo",
     "firstName": "val",
     "lastName": "difebo",
-    "cityName": "new york",
+    "cityName": "new york. She has been a key fixture in New York's advertising scene for years, known for being blunt, outspoken and fiercely loyal to her employees",
     "department": "Executive New York",
     "title": "CEO, Deutsch Inc",
     "number": "212-981-7671",
@@ -835,7 +835,7 @@
     "department": "Creative",
     "title": "Copywriter",
     "number": "212-981-8071",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -906,8 +906,8 @@
     "cityName": "new york",
     "department": "Creative",
     "title": "Recruiter",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -955,7 +955,7 @@
     "department": "Finance",
     "title": "Senior Accountant",
     "number": "212-981-7945",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1015,7 +1015,7 @@
     "department": "Creative",
     "title": "Senior Art Director",
     "number": "212-981-7582",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -1063,7 +1063,7 @@
     "department": "Information Technology",
     "title": "Technical Support Specialist",
     "number": "212-651-8404",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1159,7 +1159,7 @@
     "department": "Strategy",
     "title": "Strategy Consultant",
     "number": "212-981-8027",
-    "seatlocation": 1417,
+    "seatlocation": "1417",
     "gender": "f"
 },
 {
@@ -1183,7 +1183,7 @@
     "department": "Creative",
     "title": "Copywriter",
     "number": "212-981-7953",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1204,7 +1204,7 @@
     "firstName": "eric",
     "lastName": "grush",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "VP, Senior Editor",
     "number": "212-981-7848",
     "seatlocation": "1330-01",
@@ -1228,10 +1228,10 @@
     "firstName": "juan",
     "lastName": "guzman",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Senior Motion Designer/Editor",
     "number": "212-981-7984",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1251,7 +1251,7 @@
     "fullname_lc": "charles hailey",
     "firstName": "charles",
     "lastName": "hailey",
-    "cityName": "new york",
+    "cityName": "new york. He is the greatest",
     "department": "Digital Creative",
     "title": "Quality Assurance Engineer",
     "number": "212-981-8078",
@@ -1264,10 +1264,10 @@
     "firstName": "john",
     "lastName": "haley",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "animator",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1302,8 +1302,8 @@
     "cityName": "new york",
     "department": "Administration",
     "title": "Executive Assistant",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -1411,7 +1411,7 @@
     "department": "Operations",
     "title": "Receptionist",
     "number": "212-981-8070",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -1458,8 +1458,8 @@
     "cityName": "new york",
     "department": "Studio",
     "title": "QA Engineer",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1492,7 +1492,7 @@
     "firstName": "derrick",
     "lastName": "joseph",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "AV Biller/Business Manager",
     "number": "212-981-7723",
     "seatlocation": "1322-21",
@@ -1527,11 +1527,11 @@
     "fullname_lc": "dan kelleher",
     "firstName": "dan",
     "lastName": "kelleher",
-    "cityName": "new york",
+    "cityName": "new york. Inspiring and collaborative, he is known for his big, creative, sticky ideas for Fortune 100 businesses, including BMW, DIRECTV, General Mills, FedEx, MillerCoors, Guinness and Fox Sports. ",
     "department": "Creative",
     "title": "Partner, Chief Creative Officer",
     "number": "212-981-7764",
-    "seatlocation": 1418,
+    "seatlocation": "1418",
     "gender": "m"
 },
 {
@@ -1579,7 +1579,7 @@
     "department": "Operations",
     "title": "Operations Coordinator",
     "number": "212-981-7912",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -1590,8 +1590,8 @@
     "cityName": "new york",
     "department": "Studio",
     "title": "Proofreader",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1699,7 +1699,7 @@
     "department": "Creative",
     "title": "Art Director",
     "number": "212-981-7917",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -1792,10 +1792,10 @@
     "firstName": "gabriella",
     "lastName": "loutfi",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Editor",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -1806,8 +1806,8 @@
     "cityName": "new york",
     "department": "Studio",
     "title": "Proofreader",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -1975,7 +1975,7 @@
     "department": "Information Technology",
     "title": "EVP, Chief Information Officer",
     "number": "212-981-7766",
-    "seatlocation": "|1324-02",
+    "seatlocation": "1324-02",
     "gender": "m"
 },
 {
@@ -2164,10 +2164,10 @@
     "firstName": "matt",
     "lastName": "mullen",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Editor",
     "number": "212-981-7827",
-    "seatlocation": "1331 ( Edit 3 )",
+    "seatlocation": "1331 Edit 3",
     "gender": "m"
 },
 {
@@ -2187,7 +2187,7 @@
     "fullname_lc": "daniel murphy",
     "firstName": "daniel",
     "lastName": "murphy",
-    "cityName": "new york",
+    "cityName": "new york. He makes impossible possible, and on top of that, is great to hang with",
     "department": "Digital Production",
     "title": "SVP, Director of Digital Production",
     "number": "212-981-7817",
@@ -2260,10 +2260,10 @@
     "firstName": "joey",
     "lastName": "park",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "animator",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -2275,7 +2275,7 @@
     "department": "Creative",
     "title": "Copywriter",
     "number": "212-981-8108",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -2310,8 +2310,8 @@
     "cityName": "new york",
     "department": "Studio",
     "title": "Proofreader",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -2347,7 +2347,7 @@
     "department": "Operations",
     "title": "Mailroom Coordinator",
     "number": "212-981-7564",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -2380,10 +2380,10 @@
     "firstName": "danny",
     "lastName": "pincz",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Designer",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -2551,7 +2551,7 @@
     "department": "Operations",
     "title": "Receptionist",
     "number": "212-981-7969",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {
@@ -2644,10 +2644,10 @@
     "firstName": "aaron",
     "lastName": "schillinger",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Editor",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -2752,10 +2752,10 @@
     "firstName": "pete",
     "lastName": "slife",
     "cityName": "new york",
-    "department": "Steelhead – NY",
+    "department": "Steelhead, NY",
     "title": "Editor",
-    "number": "",
-    "seatlocation": "",
+    "number": "unavailable. Please call I.T. helpdesk at 7717.",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "m"
 },
 {
@@ -3019,7 +3019,7 @@
     "department": "Media Buying",
     "title": "Network Operations Manager",
     "number": "212-981-7960",
-    "seatlocation": "",
+    "seatlocation": "unavailable. Please call I.T. helpdesk at 7717.",
     "gender": "f"
 },
 {

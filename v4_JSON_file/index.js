@@ -113,7 +113,7 @@ const newSessionHandlers = {
     },
     "AMAZON.StartOverIntent": function () {
         this.handler.state = states.SEARCHMODE;
-        var output = "<say-as interpret-as='interjection'>well well</say-as>, starting over." + getGenericHelpMessage(data);
+        var output = "<say-as interpret-as='interjection'>well well</say-as>, starting over. " + getGenericHelpMessage(data);
         this.emit(":ask", output, output);
     },
     "AMAZON.HelpIntent": function () {
@@ -348,7 +348,7 @@ var descriptionHandlers = Alexa.CreateStateHandler(states.DESCRIPTION, {
     },
     "AMAZON.StartOverIntent": function () {
         this.handler.state = states.SEARCHMODE;
-        var output = "<say-as interpret-as='interjection'>okey dokey</say-as>, starting over." + getGenericHelpMessage(data);
+        var output = "<say-as interpret-as='interjection'>okey dokey</say-as>, starting over. " + getGenericHelpMessage(data);
         this.emit(":ask", output, output);
     },
     "SessionEndedRequest": function () {
@@ -646,7 +646,15 @@ function generateSearchHelpMessage(gender) {
 //When Alexa is asked "Tell me more"
 function generateTellMeMoreMessage(person) {
     // var sentence = person.firstName + " joined the Deutsch in " + person.joinDate + ". " + genderize("his-her", person.gender) + " department is " + person.department + " . " + generateSendingCardToAlexaAppMessage(person, "general");
-    var sentence = person.firstName + "'s " + "department is " + person.department + " and " + genderize("his-her", person.gender) + " phone number is " + person.number + " and " + genderize("his-her", person.gender) + " seat location is " + person.seatlocation + " on " + whichFloor(person.seatlocation) + "th floor. " + generateSendingCardToAlexaAppMessage(person, "general");
+
+    if( person.seatlocation.length < 20 ){
+        var sentence = person.firstName + "'s " + "department is " + person.department + " and " + genderize("his-her", person.gender) + " phone number is " + person.number + " and " + genderize("his-her", person.gender) + " seat location is " + person.seatlocation + " on " + whichFloor(person.seatlocation) + "th floor. " + generateSendingCardToAlexaAppMessage(person, "general");
+        
+    } else {
+        var sentence = person.firstName + "'s " + "department is " + person.department + " and " + genderize("his-her", person.gender) + " phone number is " + person.number + " and " + genderize("his-her", person.gender) + " seat location is " + person.seatlocation + " " + generateSendingCardToAlexaAppMessage(person, "general");
+        
+    }
+
     return sentence;
 }
 
@@ -669,8 +677,10 @@ function generateSpecificInfoMessage(slots, person) {
 
     // sentence = person.firstName + "'s " + infoTypeValue.toLowerCase() + " is - " + person[infoTypeValue.toLowerCase()] + " . Would you like to find another Deutscher? " + getGenericHelpMessage(data);
 
-    if (infoTypeValue == "seatlocation") {
+    if ( infoTypeValue == "seatlocation" && person[infoTypeValue].length < 20 ) {
         sentence = person.firstName + "'s seat location is - " + person[infoTypeValue] + " on " + whichFloor(person[infoTypeValue]) + "th floor. Would you like to find another Deutscher? " + getGenericHelpMessage(data);
+    } else if ( infoTypeValue == "seatlocation" && person[infoTypeValue].length > 20 ){
+        sentence = person.firstName + "'s seat location is - " + person[infoTypeValue] + " Would you like to find another Deutscher? " + getGenericHelpMessage(data);
     } else {
         sentence = person.firstName + "'s " + infoTypeValue + " is - " + person[infoTypeValue] + ". Would you like to find another Deutscher? " + getGenericHelpMessage(data);
     }

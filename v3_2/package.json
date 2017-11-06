@@ -1,0 +1,16 @@
+{
+  "name": "v3_alexa_sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14",
+    "file-system": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sangmin",
+  "license": "ISC"
+}
